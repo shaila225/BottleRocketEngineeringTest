@@ -1,0 +1,13 @@
+
+In regards to assignment that's pretty much clear about all the requirements 
+
+- I choose ViewModel pattern to communicate better around the app especially the list of restaurants
+
+- It can even better about the UI measuring if I got some more time
+
+- NSCache helps to retrieve image from network even faster
+
+- we can create BaseController for MapsView especially to avoid repeated code 
+
+
+@@ Thank you for the opportunity! Cheers! 
